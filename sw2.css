@@ -1,0 +1,32 @@
+h1{
+	border: 8px;
+	border-style: solid;
+	border-collapse: collapse;
+	border-color: #8FB1CC;
+	border-width: 10px;
+	background-color: #FAF9F6; 
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+	width: 1050px;
+	height: 40px;
+	display: inline-block;
+}
+
+td{
+	border-right: none;
+	border-left: none;
+	border: solid 2px; 
+	border-color: #8FB1CC;
+}
+
+.form{
+	border-style: solid; 
+	border-color: #8FB1CC; 
+	background-color: #FAF9F6; 
+	border-width: 10px;
+	
+	width: 800px;
+	height: 168px;
+	display: inline-block;
+}
